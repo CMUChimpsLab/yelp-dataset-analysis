@@ -5,3 +5,4 @@ src/convert.py
 src/*.csv
 src/*model*
 src/temp
+src/*txt

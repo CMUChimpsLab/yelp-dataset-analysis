@@ -1,33 +1,35 @@
+import json
+import pandas as pd
+with open('NVpair16.txt') as json_data:
+    d = json.load(json_data)
+count = 0
+a = []
+for key, elem in enumerate(d):
+    # print key
+    if count % 2 == 0:
+        s = d[key]["word"]+ " "  + d[key + 1]["word"]
+        a.append(s)
+    count = count + 1
 
-from pymongo import MongoClient
+print len(a)
+b = set(a)
+print len(b)
 
-from gensim.models import LdaModel
-from gensim import corpora
-from nltk import WordNetLemmatizer
-from nltk.corpus import stopwords
-import nltk
+counts  = []
+for item in b:
+    count = {}
+    x = 0
+    for i in a:
+        if item == i:
+            x = x + 1
+            count["c"] = x
+            count["s"]= i
+    counts.append(count)
+print counts
 
+df = pd.DataFrame(counts)
+print df.info()
 
+df = df.sort(['c'], ascending=False)
+print df
 
-dictionary = corpora.Dictionary(texts)
-
-
-
-Review ="It's like eating with a big Italian family. " \
-                 "Great, authentic Italian food, good advice when asked, and terrific service. " \
-                 "With a party of 9, last minute on a Saturday night, we were sat within 15 minutes. " \
-                 "The owner chatted with our kids, and made us feel at home. " \
-                 "It was an overall great experience!"
-stopset = set(stopwords.words('english'))
-words = []
-lmtzr = WordNetLemmatizer()
-sentences = nltk.sent_tokenize(Review.lower())
-for sentence in sentences:
-    tokens = nltk.word_tokenize(sentence)
-    filteredWords = [word for word in tokens if word not in stopset]
-    tagged_text = nltk.pos_tag(filteredWords)
-    for word, tag in tagged_text:
-          if tag in ['NN','NNS']:
-              words.append(lmtzr.lemmatize(word))
-
-print lda[dictionary.doc2bow(words)]
