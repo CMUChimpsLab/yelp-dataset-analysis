@@ -1,0 +1,3495 @@
+{
+	"items": [{
+		"count": 1,
+		"latitude": "40.414417322834744",
+		"category": "Food Ice Cream & Frozen Yogurt Desserts",
+		"name": "Arlington",
+		"longitude": "-79.96785826771652"
+	}, {
+		"count": 1,
+		"latitude": "40.36022722283223",
+		"category": "Active Life Bowling",
+		"name": "Whitehall Borough",
+		"longitude": "-79.98980351262348"
+	}, {
+		"count": 1,
+		"latitude": "40.36022722283223",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "Whitehall Borough",
+		"longitude": "-79.98980351262348"
+	}, {
+		"count": 1,
+		"latitude": "40.36022722283223",
+		"category": "Pizza Restaurants",
+		"name": "Whitehall Borough",
+		"longitude": "-79.98980351262348"
+	}, {
+		"count": 1,
+		"latitude": "40.36022722283223",
+		"category": "Shopping Home & Garden Furniture Stores",
+		"name": "Whitehall Borough",
+		"longitude": "-79.98980351262348"
+	}, {
+		"count": 1,
+		"latitude": "40.380269503546074",
+		"category": "American (New) Restaurants",
+		"name": "Baldwin Township",
+		"longitude": "-80.01443262411345"
+	}, {
+		"count": 1,
+		"latitude": "40.380269503546074",
+		"category": "Auto Repair Automotive Towing",
+		"name": "Baldwin Township",
+		"longitude": "-80.01443262411345"
+	}, {
+		"count": 1,
+		"latitude": "40.380269503546074",
+		"category": "Hardware Stores Building Supplies Shopping Home Services Home & Garden",
+		"name": "Baldwin Township",
+		"longitude": "-80.01443262411345"
+	}, {
+		"count": 1,
+		"latitude": "40.380269503546074",
+		"category": "Italian Pizza Restaurants",
+		"name": "Baldwin Township",
+		"longitude": "-80.01443262411345"
+	}, {
+		"count": 1,
+		"latitude": "40.380269503546074",
+		"category": "Middle Eastern Mediterranean Restaurants",
+		"name": "Baldwin Township",
+		"longitude": "-80.01443262411345"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Books, Mags, Music & Video Shopping Bookstores",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Department Stores Fashion Shopping",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Fast Food Mexican Tex-Mex Restaurants",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Food Grocery",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Pet Services Pet Groomers Pet Training Pet Stores Pets",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Sandwiches Restaurants",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Shopping Cosmetics & Beauty Supply Beauty & Spas",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Shopping Home & Garden Furniture Stores",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.476230460922",
+		"category": "Thai Restaurants",
+		"name": "Lincoln-Lemington-Belmar",
+		"longitude": "-79.89689579158308"
+	}, {
+		"count": 1,
+		"latitude": "40.42136363636366",
+		"category": "Pubs Bars Nightlife",
+		"name": "Swisshelm Park",
+		"longitude": "-79.9049621212121"
+	}, {
+		"count": 1,
+		"latitude": "40.5010376344086",
+		"category": "Hotels & Travel Event Planning & Services Hotels",
+		"name": "Avalon Borough",
+		"longitude": "-80.06808064516129"
+	}, {
+		"count": 1,
+		"latitude": "40.5010376344086",
+		"category": "Thrift Stores Shopping",
+		"name": "Avalon Borough",
+		"longitude": "-80.06808064516129"
+	}, {
+		"count": 1,
+		"latitude": "40.5010376344086",
+		"category": "Veterinarians Pets",
+		"name": "Avalon Borough",
+		"longitude": "-80.06808064516129"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Active Life Skating Rinks",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Acupuncture Traditional Chinese Medicine Health & Medical",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Arts & Crafts Shopping",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Arts & Entertainment Cinema",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 2,
+		"latitude": "40.37522056186448",
+		"category": "Bakeries Food",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Bars American (Traditional) Burgers Nightlife Sports Bars Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Bars Nightlife",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Beauty & Spas Nail Salons",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Bridal Shopping",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 3,
+		"latitude": "40.37522056186448",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Car Wash Automotive",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 4,
+		"latitude": "40.37522056186448",
+		"category": "Chinese Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Fashion Shopping Shoe Stores",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 2,
+		"latitude": "40.37522056186448",
+		"category": "Flowers & Gifts Shopping Florists",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Food Bakeries Coffee & Tea",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Food Beer, Wine & Spirits",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Food Ice Cream & Frozen Yogurt",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Food Ice Cream & Frozen Yogurt Fast Food Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Food Sandwiches Bagels Breakfast & Brunch Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Hair Salons Day Spas Hair Extensions Hair Stylists Beauty & Spas",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Hair Salons Eyelash Service Hair Removal Waxing Beauty & Spas",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Hardware Stores Shopping Home & Garden",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Health & Medical Hospitals",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Italian Bars Pizza Nightlife Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Italian Pizza Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Libraries Public Services & Government",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Local Services Dry Cleaning & Laundry Sewing & Alterations",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Local Services Sewing & Alterations",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Local Services Shoe Repair",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Nutritionists Health & Medical Chiropractors",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Pediatric Dentists Health & Medical Dentists General Dentistry Cosmetic Dentists",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 2,
+		"latitude": "40.37522056186448",
+		"category": "Pizza Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Shopping Arts & Entertainment Art Galleries Interior Design Home Services",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Shopping Drugstores",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Shopping Flowers & Gifts Nurseries & Gardening Florists Home & Garden",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Shopping Home & Garden Furniture Stores",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Shopping Centers Shopping",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Sporting Goods Shopping",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 2,
+		"latitude": "40.37522056186448",
+		"category": "Sushi Bars Japanese Restaurants",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.37522056186448",
+		"category": "Tobacco Shops Pubs Bars Shopping Nightlife",
+		"name": "Mount Lebanon",
+		"longitude": "-80.04944351464434"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "American (Traditional) Diners Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Automotive Car Dealers",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Automotive Motorcycle Dealers",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 2,
+		"latitude": "40.396542105263",
+		"category": "Bakeries Food",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Bakeries Food Cafes Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Bars American (Traditional) Nightlife Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Chinese Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Greek Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Home Services Heating & Air Conditioning/HVAC",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Italian Pizza Restaurants",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Local Services Sewing & Alterations",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Plumbing Home Services Heating & Air Conditioning/HVAC",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Restaurants Italian",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Shopping Drugstores",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.396542105263",
+		"category": "Sporting Goods Bikes Shopping",
+		"name": "Brookline",
+		"longitude": "-80.01252280701758"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Beauty & Spas Nail Salons",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Chinese Restaurants",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Computers Shopping Office Equipment",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Food Ice Cream & Frozen Yogurt Pizza Restaurants",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Italian Pizza Chicken Wings Restaurants",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Pizza Restaurants",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Seafood Fast Food Restaurants",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Tires Automotive Auto Repair Transmission Repair",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.39486334056389",
+		"category": "Tires Automotive Body Shops Towing",
+		"name": "Carrick",
+		"longitude": "-79.98607158351415"
+	}, {
+		"count": 1,
+		"latitude": "40.468538461538465",
+		"category": "German Beer, Wine & Spirits Food Restaurants",
+		"name": "Spring Garden",
+		"longitude": "-79.98929487179485"
+	}, {
+		"count": 1,
+		"latitude": "40.468538461538465",
+		"category": "Restaurants",
+		"name": "Spring Garden",
+		"longitude": "-79.98929487179485"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Active Life Tennis Swimming Pools Beaches",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "American (Traditional) Restaurants",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Automotive Gas & Service Stations",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Bars American (Traditional) Burgers Nightlife Sports Bars Restaurants",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Bars Pool Halls Irish Pub Sports Bars Nightlife",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Department Stores Fashion Shopping",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Fast Food Mexican Tex-Mex Restaurants",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Food Beer, Wine & Spirits Event Planning & Services Caterers",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Food Coffee & Tea",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Food Grocery",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Health & Medical Chiropractors",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 2,
+		"latitude": "40.43126666666669",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Local Services Shoe Repair",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Pubs Bars Hot Dogs Nightlife Restaurants",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Shopping Antiques",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.43126666666669",
+		"category": "Used, Vintage & Consignment Fashion Shopping",
+		"name": "Edgewood Borough",
+		"longitude": "-79.88401212121214"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Bars Salad Wine Bars Nightlife Italian Restaurants",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Doctors Health & Medical Internal Medicine",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Event Planning & Services American (Traditional) Caterers Comfort Food Restaurants",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Flowers & Gifts Shopping Florists",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Food Bagels",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Hardware Stores Shopping Home & Garden",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Hotels & Travel Event Planning & Services Hotels",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Hotels & Travel Event Planning & Services Venues & Event Spaces Hotels",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Italian American (New) Seafood Restaurants",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Italian Pizza Restaurants",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.41706491228045",
+		"category": "Tree Services Home Services",
+		"name": "Green Tree Borough",
+		"longitude": "-80.05432982456131"
+	}, {
+		"count": 1,
+		"latitude": "40.44494711538459",
+		"category": "Bakeries Food Donuts",
+		"name": "Crafton Heights",
+		"longitude": "-80.0526586538462"
+	}, {
+		"count": 1,
+		"latitude": "40.44494711538459",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "Crafton Heights",
+		"longitude": "-80.0526586538462"
+	}, {
+		"count": 1,
+		"latitude": "40.44494711538459",
+		"category": "Home & Garden Shopping Home Decor Antiques",
+		"name": "Crafton Heights",
+		"longitude": "-80.0526586538462"
+	}, {
+		"count": 1,
+		"latitude": "40.323861811391474",
+		"category": "Real Estate Real Estate Services Home Services Real Estate Agents",
+		"name": "Bethel Park Borough",
+		"longitude": "-80.03642857142874"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Active Life Yoga Gyms Trainers Fitness & Instruction",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 2,
+		"latitude": "40.45347430830049",
+		"category": "American (New) Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Bakeries Food Desserts",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Bars American (Traditional) Nightlife Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Bars Food Bagels Dive Bars Nightlife Lounges",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Bars Pizza Nightlife Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Bars Restaurants American (Traditional) Sports Bars Nightlife",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Breakfast & Brunch Creperies French Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Breakfast & Brunch Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Dermatologists Doctors Health & Medical",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Doctors Ophthalmologists Health & Medical Family Practice Optometrists",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Fashion Shopping Shoe Stores",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Fashion Shopping Sporting Goods Accessories Women's Clothing Sports Wear",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Fast Food Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Flowers & Gifts Shopping Florists",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Food Coffee Roasteries",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Food Convenience Stores Shopping Drugstores",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Food Ice Cream & Frozen Yogurt Coffee & Tea",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Food Sandwiches Bagels Breakfast & Brunch Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Food Specialty Food Kitchen & Bath Shopping Home & Garden",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Food Tea Rooms Breakfast & Brunch Bed & Breakfast Hotels & Travel Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Gift Shops Books, Mags, Music & Video Flowers & Gifts Shopping Bookstores",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Hair Salons Hair Removal Beauty & Spas",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Health & Medical Massage Chiropractors Beauty & Spas",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Hotels & Travel Bed & Breakfast",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Hotels & Travel Event Planning & Services Hotels",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Hotels & Travel Restaurants American (New) Event Planning & Services Hotels",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Leather Goods Fashion Shopping",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Lingerie Shopping Fashion",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Local Services Jewelry Repair Shopping Jewelry",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Local Services Shipping Centers Post Offices Public Services & Government",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Men's Clothing Fashion Shopping",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Peruvian Latin American Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Pizza Restaurants",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Property Management Home Services Real Estate",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Religious Organizations",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Restaurants Italian",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Shopping Arts & Crafts Bookstores Gift Shops Event Planning & Services Books, Mags, Music & Video Cards & Stationery Flowers & Gifts",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Shopping Jewelry",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Shopping Jewelry Watches",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 2,
+		"latitude": "40.45347430830049",
+		"category": "Shopping Toy Stores",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Sporting Goods Shopping",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 3,
+		"latitude": "40.45347430830049",
+		"category": "Women's Clothing Fashion Shopping Accessories",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45347430830049",
+		"category": "Women's Clothing Men's Clothing Fashion Shopping Children's Clothing",
+		"name": "Shadyside",
+		"longitude": "-79.93222529644265"
+	}, {
+		"count": 1,
+		"latitude": "40.45086486486487",
+		"category": "Active Life Leisure Centers",
+		"name": "Allegheny West",
+		"longitude": "-80.01456756756757"
+	}, {
+		"count": 1,
+		"latitude": "40.45086486486487",
+		"category": "Bars American (Traditional) Nightlife Restaurants",
+		"name": "Allegheny West",
+		"longitude": "-80.01456756756757"
+	}, {
+		"count": 1,
+		"latitude": "40.45086486486487",
+		"category": "Food Coffee & Tea",
+		"name": "Allegheny West",
+		"longitude": "-80.01456756756757"
+	}, {
+		"count": 1,
+		"latitude": "40.45086486486487",
+		"category": "Museums Arts & Entertainment Children's Museums",
+		"name": "Allegheny West",
+		"longitude": "-80.01456756756757"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "American (New) Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Auto Repair Automotive",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Automotive Body Shops",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Bakeries Food",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Banks & Credit Unions Financial Services",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 2,
+		"latitude": "40.460373056994854",
+		"category": "Barbers Beauty & Spas",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Barbers Tanning Beauty & Spas",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 2,
+		"latitude": "40.460373056994854",
+		"category": "Bars American (Traditional) Nightlife Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Bars Restaurants Nightlife Italian",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Breakfast & Brunch American (Traditional) Diners Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Breakfast & Brunch Sandwiches Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Burgers American (Traditional) Steakhouses Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Chinese Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Dive Bars Bars Nightlife",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Event Planning & Services American (Traditional) Caterers Comfort Food Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Financial Services Insurance",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Flowers & Gifts Shopping Florists",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Food Coffee & Tea",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Food Coffee & Tea Vegetarian Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 2,
+		"latitude": "40.460373056994854",
+		"category": "Food Grocery Delis Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Food Ice Cream & Frozen Yogurt",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Gift Shops Flowers & Gifts Shopping",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Hair Salons Beauty & Spas Nail Salons",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 3,
+		"latitude": "40.460373056994854",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Home Services Real Estate Apartments",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Hotels & Travel Event Planning & Services Hotels",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Indian Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Libraries Public Services & Government",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Local Services Dry Cleaning & Laundry Home Services",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Local Services Dry Cleaning & Laundry Sewing & Alterations",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Music & DVDs Books, Mags, Music & Video Vinyl Records Shopping Newspapers & Magazines",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Nightlife Bars Sandwiches Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Oil Change Stations Automotive",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 2,
+		"latitude": "40.460373056994854",
+		"category": "Pizza Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Pubs Bars American (Traditional) Nightlife Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 2,
+		"latitude": "40.460373056994854",
+		"category": "Restaurants Italian",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Seafood Restaurants Italian",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Shopping Drugstores",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Thai Restaurants",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.460373056994854",
+		"category": "Veterinarians Pets",
+		"name": "Bloomfield",
+		"longitude": "-79.94627461139892"
+	}, {
+		"count": 1,
+		"latitude": "40.49216101694919",
+		"category": "Arts & Entertainment Nightlife Music Venues",
+		"name": "Blawnox Borough",
+		"longitude": "-79.85975423728812"
+	}, {
+		"count": 1,
+		"latitude": "40.49216101694919",
+		"category": "Bars American (Traditional) Nightlife Lounges Restaurants",
+		"name": "Blawnox Borough",
+		"longitude": "-79.85975423728812"
+	}, {
+		"count": 1,
+		"latitude": "40.49216101694919",
+		"category": "Shopping Jewelry Antiques",
+		"name": "Blawnox Borough",
+		"longitude": "-79.85975423728812"
+	}, {
+		"count": 1,
+		"latitude": "40.49216101694919",
+		"category": "Tobacco Shops Shopping",
+		"name": "Blawnox Borough",
+		"longitude": "-79.85975423728812"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Auto Repair Automotive",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Bakeries Food",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Bars American (Traditional) Nightlife Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Breakfast & Brunch Diners Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "DJs Event Planning & Services Party & Event Planning",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Fast Food American (Traditional) Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Fast Food Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Food Convenience Stores",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Food Grocery",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Health & Medical Dentists Orthodontists",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Italian Pizza Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Music & DVDs Books, Mags, Music & Video Shopping Videos & Video Game Rental",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Pizza Sandwiches Salad Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Sandwiches Restaurants",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.41256783919606",
+		"category": "Shopping Books, Mags, Music & Video Reflexology Health & Medical Bookstores Reiki",
+		"name": "Beechview",
+		"longitude": "-80.02457286432166"
+	}, {
+		"count": 1,
+		"latitude": "40.43293193717279",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Westwood",
+		"longitude": "-80.04848167539274"
+	}, {
+		"count": 1,
+		"latitude": "40.43293193717279",
+		"category": "Hotels & Travel Tours",
+		"name": "Westwood",
+		"longitude": "-80.04848167539274"
+	}, {
+		"count": 1,
+		"latitude": "40.43293193717279",
+		"category": "Tobacco Shops Beer, Wine & Spirits Shopping Food Do-It-Yourself Food",
+		"name": "Westwood",
+		"longitude": "-80.04848167539274"
+	}, {
+		"count": 1,
+		"latitude": "40.48599401197609",
+		"category": "Bakeries Food",
+		"name": "Perry North",
+		"longitude": "-80.01769461077846"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "American (New) Pizza Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "American (New) Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "American (New) Sandwiches Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Arts & Entertainment Professional Sports Teams",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Arts & Entertainment Social Clubs",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Barbers Beauty & Spas",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Bars American (New) Nightlife Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Beauty & Spas Nail Salons",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Chinese Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Delis Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Event Planning & Services Venues & Event Spaces",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Food Grocery",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Food Ice Cream & Frozen Yogurt Delis Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Hotels & Travel Bed & Breakfast Event Planning & Services Hotels",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Pizza Restaurants",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Professional Services Arts & Entertainment Shopping Video/Film Production Photography Stores & Services",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Pubs Bars Nightlife",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.44820238095242",
+		"category": "Real Estate Services Property Management Home Services Real Estate",
+		"name": "North Shore",
+		"longitude": "-80.00634523809524"
+	}, {
+		"count": 1,
+		"latitude": "40.42303797468356",
+		"category": "Bakeries Food",
+		"name": "Allentown",
+		"longitude": "-79.99393670886077"
+	}, {
+		"count": 1,
+		"latitude": "40.42303797468356",
+		"category": "Chinese Restaurants",
+		"name": "Allentown",
+		"longitude": "-79.99393670886077"
+	}, {
+		"count": 1,
+		"latitude": "40.42303797468356",
+		"category": "Restaurants",
+		"name": "Allentown",
+		"longitude": "-79.99393670886077"
+	}, {
+		"count": 1,
+		"latitude": "40.42303797468356",
+		"category": "Restaurants Italian",
+		"name": "Allentown",
+		"longitude": "-79.99393670886077"
+	}, {
+		"count": 1,
+		"latitude": "40.494090909090936",
+		"category": "Pet Services Pet Groomers Pet Boarding/Pet Sitting Pets",
+		"name": "Sharpsburg Borough",
+		"longitude": "-79.92492045454547"
+	}, {
+		"count": 1,
+		"latitude": "40.42508525345631",
+		"category": "Day Spas Nail Salons Beauty & Spas",
+		"name": "Forest Hills Borough",
+		"longitude": "-79.85450460829487"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Active Life Boating Home Services Contractors",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Cafes Restaurants",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Churches Religious Organizations",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Delis Restaurants",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Doctors Health & Medical Podiatrists",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Event Planning & Services Caterers",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Flowers & Gifts Shopping Florists",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Food Ice Cream & Frozen Yogurt",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Midwives Health & Medical",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Pizza Restaurants",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Restaurants Italian",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Seafood Restaurants",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.44904428044297",
+		"category": "Shopping Wholesale Stores",
+		"name": "Pittsburgh",
+		"longitude": "-79.9810922509225"
+	}, {
+		"count": 1,
+		"latitude": "40.43540476190477",
+		"category": "Bars American (Traditional) Nightlife Restaurants",
+		"name": "Duquesne Heights",
+		"longitude": "-80.02473214285722"
+	}, {
+		"count": 1,
+		"latitude": "40.45781081081112",
+		"category": "Seafood Steakhouses Japanese Restaurants",
+		"name": "Robinson Township",
+		"longitude": "-80.13336391654786"
+	}, {
+		"count": 1,
+		"latitude": "40.35806952811229",
+		"category": "American (New) Diners Restaurants",
+		"name": "West Mifflin Borough",
+		"longitude": "-79.90732354417662"
+	}, {
+		"count": 1,
+		"latitude": "40.35806952811229",
+		"category": "Shopping Nurseries & Gardening Home & Garden",
+		"name": "West Mifflin Borough",
+		"longitude": "-79.90732354417662"
+	}, {
+		"count": 1,
+		"latitude": "40.43864556962026",
+		"category": "Arts & Entertainment Performing Arts",
+		"name": "Central Oakland",
+		"longitude": "-79.95454430379745"
+	}, {
+		"count": 1,
+		"latitude": "40.43864556962026",
+		"category": "Museums Arts & Entertainment",
+		"name": "Central Oakland",
+		"longitude": "-79.95454430379745"
+	}, {
+		"count": 1,
+		"latitude": "40.459819672131175",
+		"category": "Bakeries Food",
+		"name": "California-Kirkbride",
+		"longitude": "-80.02163934426227"
+	}, {
+		"count": 1,
+		"latitude": "40.47764465408811",
+		"category": "Auto Repair Automotive Body Shops",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 2,
+		"latitude": "40.47764465408811",
+		"category": "Automotive Body Shops",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 1,
+		"latitude": "40.47764465408811",
+		"category": "Bakeries Food Specialty Schools Education Cooking Schools",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 1,
+		"latitude": "40.47764465408811",
+		"category": "Barbers Beauty & Spas",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 1,
+		"latitude": "40.47764465408811",
+		"category": "Food Coffee & Tea Cafes Restaurants",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 1,
+		"latitude": "40.47764465408811",
+		"category": "Hardware Stores Shopping Nurseries & Gardening Appliances Home & Garden",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 1,
+		"latitude": "40.47764465408811",
+		"category": "Pizza Restaurants",
+		"name": "Highland Park",
+		"longitude": "-79.91713836477993"
+	}, {
+		"count": 1,
+		"latitude": "40.47673591087821",
+		"category": "Health & Medical Periodontists Dentists Orthodontists General Dentistry",
+		"name": "Kennedy Township",
+		"longitude": "-80.10283355176932"
+	}, {
+		"count": 1,
+		"latitude": "40.48337987012982",
+		"category": "Food Specialty Food Meat Shops",
+		"name": "Brighton Heights",
+		"longitude": "-80.03696103896102"
+	}, {
+		"count": 3,
+		"latitude": "40.48337987012982",
+		"category": "Pizza Restaurants",
+		"name": "Brighton Heights",
+		"longitude": "-80.03696103896102"
+	}, {
+		"count": 1,
+		"latitude": "40.48337987012982",
+		"category": "Seafood Restaurants",
+		"name": "Brighton Heights",
+		"longitude": "-80.03696103896102"
+	}, {
+		"count": 1,
+		"latitude": "40.452603773584926",
+		"category": "Arts & Entertainment Cinema",
+		"name": "Chateau",
+		"longitude": "-80.02749056603774"
+	}, {
+		"count": 1,
+		"latitude": "40.452603773584926",
+		"category": "Fast Food Sandwiches Restaurants",
+		"name": "Chateau",
+		"longitude": "-80.02749056603774"
+	}, {
+		"count": 1,
+		"latitude": "40.452603773584926",
+		"category": "Professional Sports Teams Arts & Entertainment Stadiums & Arenas",
+		"name": "Chateau",
+		"longitude": "-80.02749056603774"
+	}, {
+		"count": 2,
+		"latitude": "40.45376190476196",
+		"category": "American (Traditional) Restaurants",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Bars Restaurants Nightlife Italian",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Burgers Restaurants",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 3,
+		"latitude": "40.45376190476196",
+		"category": "Food Grocery",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Food Specialty Food Candy Stores",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Food Specialty Food Coffee & Tea",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Korean Sushi Bars Restaurants",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Local Services Jewelry Repair Shopping Jewelry",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Optometrists Health & Medical",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Shopping Arts & Crafts Local Services Furniture Reupholstery Furniture Repair Fabric Stores",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.45376190476196",
+		"category": "Sushi Bars Restaurants",
+		"name": "Strip District",
+		"longitude": "-79.98111309523809"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Auto Repair Automotive",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Fast Food Restaurants",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Indian Restaurants",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Nightlife",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Optometrists Ophthalmologists Health & Medical Doctors",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Pizza Restaurants",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.47289393939402",
+		"category": "Vietnamese Restaurants",
+		"name": "Central Lawrenceville",
+		"longitude": "-79.95370454545446"
+	}, {
+		"count": 1,
+		"latitude": "40.44579927007302",
+		"category": "Food Grocery",
+		"name": "Point Breeze",
+		"longitude": "-79.90756204379569"
+	}, {
+		"count": 1,
+		"latitude": "40.44579927007302",
+		"category": "Health & Medical Chiropractors",
+		"name": "Point Breeze",
+		"longitude": "-79.90756204379569"
+	}, {
+		"count": 1,
+		"latitude": "40.44579927007302",
+		"category": "Home Services Real Estate Apartments",
+		"name": "Point Breeze",
+		"longitude": "-79.90756204379569"
+	}, {
+		"count": 1,
+		"latitude": "40.44579927007302",
+		"category": "Tapas/Small Plates Restaurants Italian",
+		"name": "Point Breeze",
+		"longitude": "-79.90756204379569"
+	}, {
+		"count": 1,
+		"latitude": "40.44579927007302",
+		"category": "Veterinarians Pets",
+		"name": "Point Breeze",
+		"longitude": "-79.90756204379569"
+	}, {
+		"count": 1,
+		"latitude": "40.45704225352114",
+		"category": "Barbeque Restaurants",
+		"name": "Central Northside",
+		"longitude": "-80.01101408450704"
+	}, {
+		"count": 1,
+		"latitude": "40.45704225352114",
+		"category": "Food Beer, Wine & Spirits",
+		"name": "Central Northside",
+		"longitude": "-80.01101408450704"
+	}, {
+		"count": 1,
+		"latitude": "40.45704225352114",
+		"category": "Hot Dogs Restaurants",
+		"name": "Central Northside",
+		"longitude": "-80.01101408450704"
+	}, {
+		"count": 1,
+		"latitude": "40.45704225352114",
+		"category": "Italian Pizza Chicken Wings Restaurants",
+		"name": "Central Northside",
+		"longitude": "-80.01101408450704"
+	}, {
+		"count": 1,
+		"latitude": "40.45704225352114",
+		"category": "Local Services Notaries",
+		"name": "Central Northside",
+		"longitude": "-80.01101408450704"
+	}, {
+		"count": 1,
+		"latitude": "40.45704225352114",
+		"category": "Pizza Restaurants",
+		"name": "Central Northside",
+		"longitude": "-80.01101408450704"
+	}, {
+		"count": 2,
+		"latitude": "40.41036194029843",
+		"category": "",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 1,
+		"latitude": "40.41036194029843",
+		"category": "Event Planning & Services Party & Event Planning Caterers",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 1,
+		"latitude": "40.41036194029843",
+		"category": "Home Services Heating & Air Conditioning/HVAC",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 2,
+		"latitude": "40.41036194029843",
+		"category": "Hotels & Travel Event Planning & Services Hotels",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 1,
+		"latitude": "40.41036194029843",
+		"category": "Hotels & Travel Event Planning & Services Venues & Event Spaces Hotels",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 2,
+		"latitude": "40.41036194029843",
+		"category": "Indian Restaurants",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 1,
+		"latitude": "40.41036194029843",
+		"category": "Shopping Centers Shopping",
+		"name": "Banksville",
+		"longitude": "-80.03925746268652"
+	}, {
+		"count": 1,
+		"latitude": "40.37333670886079",
+		"category": "Banks & Credit Unions Financial Services",
+		"name": "Brentwood Borough",
+		"longitude": "-79.97580759493677"
+	}, {
+		"count": 1,
+		"latitude": "40.46861794019928",
+		"category": "Sporting Goods Shopping",
+		"name": "McKees Rocks Borough",
+		"longitude": "-80.06320930232555"
+	}, {
+		"count": 1,
+		"latitude": "40.40794808126421",
+		"category": "Department Stores Fashion Shopping",
+		"name": "Carnegie Borough",
+		"longitude": "-80.08590293453727"
+	}, {
+		"count": 1,
+		"latitude": "40.40794808126421",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "Carnegie Borough",
+		"longitude": "-80.08590293453727"
+	}, {
+		"count": 1,
+		"latitude": "40.40794808126421",
+		"category": "Italian Pizza Chicken Wings Restaurants",
+		"name": "Carnegie Borough",
+		"longitude": "-80.08590293453727"
+	}, {
+		"count": 1,
+		"latitude": "40.40794808126421",
+		"category": "Pizza Italian Sandwiches Restaurants",
+		"name": "Carnegie Borough",
+		"longitude": "-80.08590293453727"
+	}, {
+		"count": 1,
+		"latitude": "40.40794808126421",
+		"category": "Soup Sandwiches Salad Restaurants",
+		"name": "Carnegie Borough",
+		"longitude": "-80.08590293453727"
+	}, {
+		"count": 1,
+		"latitude": "40.46274647887325",
+		"category": "German Pubs Bars Nightlife Restaurants",
+		"name": "Fineview",
+		"longitude": "-80.00416901408452"
+	}, {
+		"count": 1,
+		"latitude": "40.46274647887325",
+		"category": "Restaurants Italian",
+		"name": "Fineview",
+		"longitude": "-80.00416901408452"
+	}, {
+		"count": 1,
+		"latitude": "40.41132258064519",
+		"category": "Chinese Restaurants",
+		"name": "Mount Oliver Borough",
+		"longitude": "-79.98551612903228"
+	}, {
+		"count": 1,
+		"latitude": "40.41132258064519",
+		"category": "Discount Store Shopping",
+		"name": "Mount Oliver Borough",
+		"longitude": "-79.98551612903228"
+	}, {
+		"count": 1,
+		"latitude": "40.41132258064519",
+		"category": "Fast Food Chicken Wings Restaurants",
+		"name": "Mount Oliver Borough",
+		"longitude": "-79.98551612903228"
+	}, {
+		"count": 1,
+		"latitude": "40.41132258064519",
+		"category": "Hardware Stores Shopping Home & Garden",
+		"name": "Mount Oliver Borough",
+		"longitude": "-79.98551612903228"
+	}, {
+		"count": 1,
+		"latitude": "40.41132258064519",
+		"category": "Local Services Appliances & Repair",
+		"name": "Mount Oliver Borough",
+		"longitude": "-79.98551612903228"
+	}, {
+		"count": 1,
+		"latitude": "40.46945639534886",
+		"category": "Bars Gay Bars Nightlife",
+		"name": "Marshall-Shadeland",
+		"longitude": "-80.03420639534895"
+	}, {
+		"count": 1,
+		"latitude": "40.46945639534886",
+		"category": "Diners Restaurants",
+		"name": "Marshall-Shadeland",
+		"longitude": "-80.03420639534895"
+	}, {
+		"count": 1,
+		"latitude": "40.46945639534886",
+		"category": "Pet Services Pets Pet Stores Pet Boarding/Pet Sitting",
+		"name": "Marshall-Shadeland",
+		"longitude": "-80.03420639534895"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Active Life Bowling",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "American (New) Restaurants",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Auto Repair Automotive",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Barbers Beauty & Spas",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Bars Nightlife Lounges Karaoke",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Dive Bars Bars American (New) Nightlife Restaurants",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Fashion Shopping Shoe Stores",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Food Beer, Wine & Spirits",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Food Grocery",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Hair Salons Hair Extensions Beauty & Spas",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Libraries Public Services & Government",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Lighting Fixtures & Equipment Home Services",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Pediatric Dentists Health & Medical Dentists General Dentistry Cosmetic Dentists",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Pizza Restaurants",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Polish Greek Restaurants",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Pubs Bars Nightlife",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Security Systems Home Services",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.39408612440193",
+		"category": "Veterinarians Pets",
+		"name": "Dormont Borough",
+		"longitude": "-80.03766985645932"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "American (Traditional) Restaurants",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Arts & Entertainment Art Galleries Shopping",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Arts & Entertainment Performing Arts Event Planning & Services Venues & Event Spaces",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Food Cheese Shops Grocery Meat Shops Specialty Food",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 2,
+		"latitude": "40.451119999999996",
+		"category": "Food Coffee & Tea",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Food Ethnic Food Specialty Food Restaurants Italian",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 3,
+		"latitude": "40.451119999999996",
+		"category": "Food Grocery",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Food Grocery Mexican Restaurants",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Food Specialty Food Chocolatiers & Shops",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Food Specialty Food Grocery",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Gift Shops Flowers & Gifts Shopping Florists",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Hair Salons Barbers Hair Removal Hair Stylists Beauty & Spas",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Hotels & Travel Airport Shuttles Limos Transportation",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Party Supplies Shopping Event Planning & Services Souvenir Shops",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Pubs Irish Nightlife Bars Restaurants",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Seafood Restaurants",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Shopping Home Services Home & Garden Lighting Fixtures & Equipment Furniture Stores Jewelry",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Veterinarians Pets",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.451119999999996",
+		"category": "Vietnamese Restaurants",
+		"name": "Bedford Dwellings",
+		"longitude": "-79.97427999999998"
+	}, {
+		"count": 1,
+		"latitude": "40.3690372439477",
+		"category": "Automotive Body Shops Windshield Installation & Repair Auto Glass Services",
+		"name": "Baldwin Borough",
+		"longitude": "-79.96689261328386"
+	}, {
+		"count": 1,
+		"latitude": "40.462886178861815",
+		"category": "Bars Nightlife",
+		"name": "Troy Hill",
+		"longitude": "-79.98295121951217"
+	}, {
+		"count": 1,
+		"latitude": "40.407761363636325",
+		"category": "Auto Repair Automotive",
+		"name": "Bon Air",
+		"longitude": "-80.00106818181818"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "American (New) Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "American (Traditional) Cafes Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 3,
+		"latitude": "40.4407752808989",
+		"category": "American (Traditional) Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Arts & Entertainment Art Galleries Shopping",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Arts & Entertainment Cinema",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Arts & Entertainment Performing Arts",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Bakeries Food",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Bars Cocktail Bars Nightlife Lounges American (New) Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Bars Gay Bars Nightlife",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Bars Nightlife",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Bars Restaurants Nightlife American (New) Sports Bars Sandwiches",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Beauty & Spas Nail Salons",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Cafes Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Cafeteria Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Cards & Stationery Arts & Crafts Flowers & Gifts Shopping Event Planning & Services",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Caterers American (Traditional) Event Planning & Services Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Chinese Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Churches Religious Organizations",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Colleges & Universities Education",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Delis Restaurants Event Planning & Services Caterers",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Department Stores Fashion Shopping",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Diagnostic Services Health & Medical",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Doctors Shopping Optometrists Ophthalmologists Health & Medical Eyewear & Opticians",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Fast Food Sandwiches Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Food Bagels",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 5,
+		"latitude": "40.4407752808989",
+		"category": "Food Coffee & Tea",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Greek Mediterranean Middle Eastern Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Greek Mediterranean Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Greek Sandwiches Salad Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Hair Salons Beauty & Spas Hair Removal Nail Salons",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Hair Salons Waxing Hair Removal Beauty & Spas",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Health & Medical Chiropractors",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Home Services Real Estate Apartments",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Hot Dogs Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Hotels & Travel Car Rental",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 3,
+		"latitude": "40.4407752808989",
+		"category": "Hotels & Travel Event Planning & Services Hotels",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Libraries Public Services & Government",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Local Services Arts & Entertainment Performing Arts Community Service/Non-Profit",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 3,
+		"latitude": "40.4407752808989",
+		"category": "Local Services Sewing & Alterations",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Local Services Shoe Repair",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Massage Beauty & Spas",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Men's Clothing Fashion Shopping",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Mexican Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Newspapers & Magazines Books, Mags, Music & Video Shopping",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Opera & Ballet Arts & Entertainment Performing Arts",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 5,
+		"latitude": "40.4407752808989",
+		"category": "Pizza Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Print Media Mass Media",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Real Estate Services Home Services Real Estate",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 4,
+		"latitude": "40.4407752808989",
+		"category": "Restaurants Italian",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Sandwiches Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Seafood Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Shopping Drugstores",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Shopping Jewelry",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Skin Care Hair Salons Beauty & Spas",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 2,
+		"latitude": "40.4407752808989",
+		"category": "Steakhouses Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Tapas Bars Bars Nightlife Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Thai Restaurants",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Train Stations Hotels & Travel",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.4407752808989",
+		"category": "Women's Clothing Men's Clothing Fashion Shopping",
+		"name": "Central Business District",
+		"longitude": "-79.99853370786515"
+	}, {
+		"count": 1,
+		"latitude": "40.44363444108767",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "Squirrel Hill North",
+		"longitude": "-79.92960422960716"
+	}, {
+		"count": 1,
+		"latitude": "40.42678544061313",
+		"category": "Flowers & Gifts Shopping Florists",
+		"name": "South Side Flats",
+		"longitude": "-79.97430651340994"
+	}, {
+		"count": 1,
+		"latitude": "40.38343478260865",
+		"category": "American (Traditional) Restaurants Italian",
+		"name": "Overbrook",
+		"longitude": "-79.99707826086944"
+	}, {
+		"count": 1,
+		"latitude": "40.38343478260865",
+		"category": "Auto Repair Automotive Smog Check Stations Oil Change Stations",
+		"name": "Overbrook",
+		"longitude": "-79.99707826086944"
+	}, {
+		"count": 1,
+		"latitude": "40.38343478260865",
+		"category": "Chinese Restaurants",
+		"name": "Overbrook",
+		"longitude": "-79.99707826086944"
+	}, {
+		"count": 1,
+		"latitude": "40.38343478260865",
+		"category": "Massage Beauty & Spas",
+		"name": "Overbrook",
+		"longitude": "-79.99707826086944"
+	}, {
+		"count": 1,
+		"latitude": "40.38343478260865",
+		"category": "Pizza Restaurants",
+		"name": "Overbrook",
+		"longitude": "-79.99707826086944"
+	}, {
+		"count": 1,
+		"latitude": "40.38343478260865",
+		"category": "Tires Automotive Auto Repair Oil Change Stations",
+		"name": "Overbrook",
+		"longitude": "-79.99707826086944"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "American (Traditional) Restaurants",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Bars American (Traditional) Burgers Nightlife Sports Bars Restaurants",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Breakfast & Brunch American (Traditional) Diners Restaurants",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Chinese Restaurants",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Food Coffee & Tea",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Food Grocery",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Kitchen & Bath Shopping Home & Garden",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Mexican Tex-Mex Restaurants",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Oil Change Stations Automotive",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Sushi Bars Japanese Restaurants",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Tires Automotive Shopping Battery Stores",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.3875009363295",
+		"category": "Veterinarians Pets",
+		"name": "Scott Township",
+		"longitude": "-80.07914794007485"
+	}, {
+		"count": 1,
+		"latitude": "40.52290052185262",
+		"category": "American (Traditional) Comfort Food Caterers Event Planning & Services Restaurants",
+		"name": "Shaler Township",
+		"longitude": "-79.96325472928888"
+	}, {
+		"count": 1,
+		"latitude": "40.52290052185262",
+		"category": "Dive Bars Bars Nightlife",
+		"name": "Shaler Township",
+		"longitude": "-79.96325472928888"
+	}, {
+		"count": 1,
+		"latitude": "40.45759701492539",
+		"category": "Active Life Gyms Fitness & Instruction",
+		"name": "Polish Hill",
+		"longitude": "-79.96637313432835"
+	}, {
+		"count": 2,
+		"latitude": "40.36652173913046",
+		"category": "Bakeries Food",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Bars Nightlife",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Beauty & Spas Nail Salons",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Chinese Restaurants",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Food Grocery",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Health & Medical Dentists Orthodontists",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Musical Instruments & Teachers Shopping",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Pet Services Pet Groomers Pet Boarding/Pet Sitting Pets",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Pizza Restaurants",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Plumbing Home Services Heating & Air Conditioning/HVAC",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Shopping Antiques",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Shopping Nurseries & Gardening Home & Garden",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Ski & Snowboard Shops Shopping Sporting Goods",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.36652173913046",
+		"category": "Tires Automotive Auto Repair Oil Change Stations",
+		"name": "Castle Shannon Borough",
+		"longitude": "-80.0192974828375"
+	}, {
+		"count": 1,
+		"latitude": "40.483757281553366",
+		"category": "Italian Pizza Restaurants",
+		"name": "Morningside",
+		"longitude": "-79.92727184466018"
+	}, {
+		"count": 1,
+		"latitude": "40.483757281553366",
+		"category": "Real Estate Services Home Services Real Estate",
+		"name": "Morningside",
+		"longitude": "-79.92727184466018"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "American (New) Restaurants",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Food Coffee & Tea",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Food Ice Cream & Frozen Yogurt",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Home Services Real Estate Apartments",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Local Services Guitar Stores Musical Instruments & Teachers Shopping Musical Instrument Services",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Local Services Shoe Repair",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Sushi Bars Taiwanese Chinese Restaurants",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.50923689416419",
+		"category": "Veterinarians Pets",
+		"name": "O Hara Township",
+		"longitude": "-79.89499406528178"
+	}, {
+		"count": 1,
+		"latitude": "40.4205438596492",
+		"category": "Bridal Shopping",
+		"name": "Swissvale Borough",
+		"longitude": "-79.8858625730995"
+	}, {
+		"count": 1,
+		"latitude": "40.4205438596492",
+		"category": "Burgers Pizza Sandwiches Restaurants",
+		"name": "Swissvale Borough",
+		"longitude": "-79.8858625730995"
+	}, {
+		"count": 1,
+		"latitude": "40.4205438596492",
+		"category": "Endodontists Health & Medical Dentists General Dentistry",
+		"name": "Swissvale Borough",
+		"longitude": "-79.8858625730995"
+	}, {
+		"count": 1,
+		"latitude": "40.4205438596492",
+		"category": "Hardware Stores Shopping Home & Garden",
+		"name": "Swissvale Borough",
+		"longitude": "-79.8858625730995"
+	}, {
+		"count": 1,
+		"latitude": "40.4205438596492",
+		"category": "Nightlife Bars Sandwiches Restaurants",
+		"name": "Swissvale Borough",
+		"longitude": "-79.8858625730995"
+	}, {
+		"count": 1,
+		"latitude": "40.4205438596492",
+		"category": "Sandwiches Diners Restaurants",
+		"name": "Swissvale Borough",
+		"longitude": "-79.8858625730995"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Active Life Tennis",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Art Schools Specialty Schools Education",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Arts & Entertainment Performing Arts",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 3,
+		"latitude": "40.464592592592574",
+		"category": "Auto Repair Automotive",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Auto Repair Automotive Auto Parts & Supplies",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Auto Repair Automotive Transmission Repair Oil Change Stations",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Auto Repair Oil Change Stations Tires Automotive",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Automotive Gas & Service Stations",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Bakeries Food Bagels",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Bars American (Traditional) Nightlife Diners Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Bars Arts & Entertainment Nightlife Music Venues",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Bars Mediterranean Wine Bars Nightlife Restaurants Diners",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Bars Nightlife",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Bars Restaurants Sports Bars Barbeque Nightlife",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 3,
+		"latitude": "40.464592592592574",
+		"category": "Chinese Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Event Planning & Services Caterers",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Financial Services Hotels & Travel Travel Services Insurance",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Food Beer, Wine & Spirits",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 2,
+		"latitude": "40.464592592592574",
+		"category": "Food Grocery",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Food Grocery Shopping Drugstores",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Food Health Markets Grocery Organic Stores Specialty Food",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 6,
+		"latitude": "40.464592592592574",
+		"category": "Hair Salons Beauty & Spas",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Hair Salons Day Spas Beauty & Spas",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Health & Medical Chiropractors",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 2,
+		"latitude": "40.464592592592574",
+		"category": "Home Services Real Estate Apartments",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Hotels & Travel Public Transportation Transportation",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Italian Pizza Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Japanese Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Keys & Locksmiths Home Services Security Systems",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Korean Asian Fusion Japanese Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Libraries Public Services & Government",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 3,
+		"latitude": "40.464592592592574",
+		"category": "Local Services Dry Cleaning & Laundry",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Local Services Dry Cleaning & Laundry Shoe Repair",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Local Services Sewing & Alterations",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Nightlife",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Optometrists Health & Medical",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Pets Pet Stores",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 2,
+		"latitude": "40.464592592592574",
+		"category": "Pizza Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Portuguese Mediterranean Restaurants",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Property Management Home Services Real Estate",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Shopping Drugstores",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Shopping Home Decor Home & Garden Furniture Stores",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 2,
+		"latitude": "40.464592592592574",
+		"category": "Tires Automotive Auto Repair Oil Change Stations",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Used, Vintage & Consignment Fashion Shopping Antiques",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Used, Vintage & Consignment Fashion Shopping Formal Wear Antiques",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.464592592592574",
+		"category": "Women's Clothing Men's Clothing Fashion Shopping",
+		"name": "East Liberty",
+		"longitude": "-79.92450617283953"
+	}, {
+		"count": 1,
+		"latitude": "40.48518538324404",
+		"category": "Home Services Contractors",
+		"name": "Reserve Township",
+		"longitude": "-79.98874688057039"
+	}, {
+		"count": 1,
+		"latitude": "40.45171250000003",
+		"category": "Active Life Climbing Rock Climbing",
+		"name": "Point Breeze North",
+		"longitude": "-79.9021125"
+	}, {
+		"count": 1,
+		"latitude": "40.45171250000003",
+		"category": "Health & Medical Dentists General Dentistry",
+		"name": "Point Breeze North",
+		"longitude": "-79.9021125"
+	}, {
+		"count": 1,
+		"latitude": "40.45171250000003",
+		"category": "Health Markets Food Vegetarian Restaurants Specialty Food",
+		"name": "Point Breeze North",
+		"longitude": "-79.9021125"
+	}, {
+		"count": 1,
+		"latitude": "40.45171250000003",
+		"category": "Local Services Building Supplies Home Services Recycling Center",
+		"name": "Point Breeze North",
+		"longitude": "-79.9021125"
+	}, {
+		"count": 1,
+		"latitude": "40.45171250000003",
+		"category": "Museums Landmarks & Historical Buildings Arts & Entertainment Art Museums Public Services & Government",
+		"name": "Point Breeze North",
+		"longitude": "-79.9021125"
+	}, {
+		"count": 2,
+		"latitude": "40.49455663430423",
+		"category": "Burgers Fast Food Restaurants",
+		"name": "Bellevue Borough",
+		"longitude": "-80.05517152103579"
+	}, {
+		"count": 1,
+		"latitude": "40.49455663430423",
+		"category": "Local Services Sewing & Alterations",
+		"name": "Bellevue Borough",
+		"longitude": "-80.05517152103579"
+	}, {
+		"count": 1,
+		"latitude": "40.49455663430423",
+		"category": "Restaurants",
+		"name": "Bellevue Borough",
+		"longitude": "-80.05517152103579"
+	}, {
+		"count": 1,
+		"latitude": "40.46822656249992",
+		"category": "Arts & Entertainment Art Galleries Shopping",
+		"name": "Garfield",
+		"longitude": "-79.93792187499999"
+	}, {
+		"count": 1,
+		"latitude": "40.46822656249992",
+		"category": "Restaurants Pizza Italian",
+		"name": "Garfield",
+		"longitude": "-79.93792187499999"
+	}, {
+		"count": 1,
+		"latitude": "40.46822656249992",
+		"category": "Sporting Goods Bikes Shopping",
+		"name": "Garfield",
+		"longitude": "-79.93792187499999"
+	}, {
+		"count": 1,
+		"latitude": "40.46822656249992",
+		"category": "Used, Vintage & Consignment Fashion Shopping",
+		"name": "Garfield",
+		"longitude": "-79.93792187499999"
+	}, {
+		"count": 1,
+		"latitude": "40.46822656249992",
+		"category": "Vietnamese Restaurants",
+		"name": "Garfield",
+		"longitude": "-79.93792187499999"
+	}, {
+		"count": 1,
+		"latitude": "40.46238016528927",
+		"category": "Animal Shelters Veterinarians Pets",
+		"name": "Larimer",
+		"longitude": "-79.91207438016528"
+	}, {
+		"count": 1,
+		"latitude": "40.46238016528927",
+		"category": "Auto Repair Automotive",
+		"name": "Larimer",
+		"longitude": "-79.91207438016528"
+	}, {
+		"count": 1,
+		"latitude": "40.46238016528927",
+		"category": "Auto Repair Automotive Tires Oil Change Stations",
+		"name": "Larimer",
+		"longitude": "-79.91207438016528"
+	}, {
+		"count": 1,
+		"latitude": "40.46238016528927",
+		"category": "Churches Religious Organizations",
+		"name": "Larimer",
+		"longitude": "-79.91207438016528"
+	}, {
+		"count": 1,
+		"latitude": "40.46238016528927",
+		"category": "Event Planning & Services Party & Event Planning",
+		"name": "Larimer",
+		"longitude": "-79.91207438016528"
+	}]
+}

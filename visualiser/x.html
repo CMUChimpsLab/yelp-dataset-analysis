@@ -1,0 +1,62 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-xs-12 dc-data-count dc-chart" id="data-count">
+			<h2>Beer History
+        <small>
+          <span class="filter-count"></span> selected out of <span class="total-count"></span> records |
+           <a id="all" href="#">Reset All</a>
+          </span>
+        </small>
+      </h1>
+    </div>
+  </div>
+  <div class="row" id="control-row">
+    <div class="col-xs-2 pie-chart">
+      <h4>Year <small><a id="year">reset</a></small></h4>
+      <div class="dc-chart" id="chart-ring-year"></div>
+    </div>
+    <div class="col-xs-2 pie-chart">
+      <h4>Month <small><a id="month" href="#">reset</a></small></h4>
+      <div class="dc-chart" id="chart-ring-month"></div>
+    </div>
+    <div class="col-xs-2 pie-chart">
+      <h4>Day <small><a id="day">reset</a></small></h4>
+      <div id="chart-ring-day" class="dc-chart"></div>
+    </div>
+    <div class="col-xs-6">
+      <h4>Breweries</h4>
+      <div id="map"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <div class="dc-chart" id="chart-rating-count"></div>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <div class="dc-chart" id="chart-community-rating-count"></div>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <div class="dc-chart" id="chart-abv-count"></div>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <div class="dc-chart" id="chart-ibu-count"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <table class="table table-bordered table-striped" id="data-table">
+        <thead>
+          <tr class="header">
+            <th>Brewery</th>
+            <th>Beer</th>
+            <th>Style</th>
+            <th>My Rating</th>
+            <th>Community Rating</th>
+            <th>ABV %</th>
+            <th>IBU</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+  </div>
+</div>
