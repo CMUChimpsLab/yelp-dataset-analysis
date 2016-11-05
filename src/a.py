@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-with open('NVpair16.txt') as json_data:
+with open('NVpair1.txt') as json_data:
     d = json.load(json_data)
 count = 0
 a = []
@@ -15,6 +15,11 @@ print len(a)
 b = set(a)
 print len(b)
 
+def df_to_json(df, filename=''):
+    x = df.reset_index().T.to_dict().values()
+    if filename:
+        with open(filename, 'w+') as f: f.write(json.dumps(x))
+    return x
 counts  = []
 for item in b:
     count = {}
@@ -30,6 +35,14 @@ print counts
 df = pd.DataFrame(counts)
 print df.info()
 
-df = df.sort(['c'], ascending=False)
-print df
+df = df.sort(['c'], ascending=False)[:40]
+d =  df.head(40)
+df_to_json(df, 'nvc1.json')
 
+
+
+def df_to_json(df, filename=''):
+    x = df.reset_index().T.to_dict().values()
+    if filename:
+        with open(filename, 'w+') as f: f.write(json.dumps(x))
+    return x
