@@ -1,5 +1,6 @@
 from nltk.corpus import wordnet as wordnet
 from nltk.corpus import sentiwordnet as swn
+from nltk.stem import WordNetLemmatizer
 import nltk
 import json
 from nltk.stem import WordNetLemmatizer
@@ -8,15 +9,16 @@ from nltk.stem.porter import PorterStemmer
 stopwords = {}
 filetype = 'txt'
 count = 0
+wordnet_lemmatizer = WordNetLemmatizer()
 with open('stopwords.txt', 'rU') as f:
     for line in f:
         stopwords[line.strip()] = 1
-for i in range(0, 15):
+for i in range(0, 1):
     count = count + 1
     sentences = []
     tagged_tuples = []
     NVpairs = []
-    with open('review' + str(count) +'.txt', 'r') as f:
+    with open('../DataModels/Reviews/review14.txt', 'r') as f:
         my_list = [line.decode('unicode-escape').rstrip(u'\n') for line in f]
         '''POS tagging of a sentence.'''
     print 'read file' ,my_list[:1]
@@ -66,7 +68,8 @@ for i in range(0, 15):
         porter_stemmer = PorterStemmer()
     print 'NVpairs', NVpairs[:5]
     for pair in NVpairs:
-                pair['word'] = porter_stemmer.stem(pair['word'])
+                pair['word'] = wordnet_lemmatizer.lemmatize(pair['word'])
+                # pair['word'] = porter_stemmer.stem(pair['word'])
     with open('NVpair' + str(count) +'.txt', 'w') as f:
         json.dump(NVpairs, f)
     print 'wrote'

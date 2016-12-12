@@ -18,3 +18,4 @@ business_df = pd.DataFrame.from_dict(data)
 
 print business_df.info()
 print business_df.head(1)
+

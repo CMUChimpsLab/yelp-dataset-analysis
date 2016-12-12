@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-with open('NVpair1.txt') as json_data:
+with open('../DataModels/VerbsPairs/NVpair3.txt') as json_data:
     d = json.load(json_data)
 count = 0
 a = []
