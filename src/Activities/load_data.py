@@ -57,9 +57,7 @@ df_business.info()
 pittsburgh = df_business[df_business.city == 'Pittsburgh']
 pittsburgh['neighborhood'] = pittsburgh.apply(applyneighborhood, axis =1)
 print pittsburgh.info()
-# print pittsburgh['new_col']
-# print business_ids.values
-# print df_business[['latitude','longitude']]
+
 print pittsburgh.groupby('neighborhood').size().sort_values(ascending=False)
 print pittsburgh[['name', 'neighborhood', 'longitude', 'latitude']]
 

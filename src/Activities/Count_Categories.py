@@ -1,25 +1,7 @@
 import json
 import pandas as pd
-import seaborn as sns
 from csv import DictReader
 import util
-import funcy as fp
-import re
-import gensim
-import matplotlib.pyplot as plt
-from sklearn.cross_validation import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-import numpy as np
-from gensim import corpora, models, similarities
-from gensim.corpora import Dictionary, MmCorpus
-
-import nltk
-import pyLDAvis.gensim as gensimvis
-import pyLDAvis
-
-
-
-
 '''
 load_data(filepath)
 Given a filepath to a JSON file, loads in the file and formats the JSON
@@ -157,69 +139,43 @@ business_df['categories'] = business_df['categories'].apply(lambda x: tuple(x))
 final_df = business_df.groupby(['neighborhood', 'categories']).size().reset_index(name='count')
 print final_df.head()
 
-# myJSON = final_df.to_json(path_or_buf = None, orient = 'records', date_format = 'epoch', double_precision = 10, force_ascii = True, date_unit = 'ms', default_handler = None) # Attempt 1
 
 with open("count.json", "w+") as output_file:
     output_file.write(final_df.to_json())
-# print pittsburgh_df.neighborhood.unique()
-# pittsburgh_df[['categories','longitude', 'business_id', 'neighborhood']]
 
-# print type(pittsburgh_df['business_id'])
+words_per_nghd = json.load(open('count.json'))
+# for i in range(5):
+#     print words_per_nghd['count'][str(i)]
+#     print words_per_nghd['neighborhood'][str(i)]
+#     print words_per_nghd['categories'][str(i)]
 
-# print 'merged_df'
-# merged_df = pd.merge(review_df, business_df, on='business_id', how='left')
-# print merged_df.info()
-# print merged_df.head()
 
-# review_list = merged_df['text'].tolist()
+# for i in range(580):
+#     target_dict['neighborhood'] = words_per_nghd['neighborhood'][str(i)]
+count = {}
+full = []
+# for line in DictReader(open('nghd_central_point.csv')):
+#     print line['nghd']
 
-# print type(review_list)
-#
-# words = []
-# from nltk import WordNetLemmatizer
-#
-# lmtzr = WordNetLemmatizer()
-#
-# print 'printing'
-# stopwords = {}
-# with open('stopwords.txt', 'rU') as f:
-#     for line in f:
-#         stopwords[line.strip()] = 1
-#
-# def tokenize(row):
-#     words = []
-#     sentences = nltk.sent_tokenize(row['text'].lower())
-#     for sentence in sentences:
-#         tokens = nltk.word_tokenize(sentence)
-#         filteredWords = [word for word in tokens if word not in stopwords]
-#         tagged_text = nltk.pos_tag(filteredWords)
-#
-#         for word, tag in tagged_text:
-#             if tag in ['NN', 'NNS']:
-#                 words.append(lmtzr.lemmatize(word))
-#     return words
-#
-#
-#
-#
-# merged_df_top = merged_df.head()
-# print merged_df_top[['city', 'neighborhood','business_id','text']]
-#
-# shady = merged_df[merged_df.neighborhood == 'Squirrel Hill North']
-#
-# texts = []
-# for index, row in shady.iterrows():
-#     texts.append(tokenize(row))
-#
-# print texts
+for line in DictReader(open('nghd_central_point.csv')):
+    empty = {}
+    nghd = line['nghd']
+    categories = []
+    for i in range(582):
+        if words_per_nghd['neighborhood'][str(i)] == nghd:
+            category= {}
+            category['name'] = nghd;
+            category['count'] = words_per_nghd['count'][str(i)]
+            category['latitude'] = line['lat']
+            category['longitude'] = line['lon']
+            category['category'] = " ".join(str(x) for x in words_per_nghd['categories'][str(i)])
+            categories.append(category)
+            empty['neighborhoods'] = category
+            if category:
+                full.append(category)
 
-# dictionary = corpora.Dictionary(texts)
-# print(dictionary)
-#
-# corpus = [dictionary.doc2bow(doc) for doc in texts]
-# lda = models.LdaModel(corpus, id2word=dictionary, num_topics=10, passes=2, iterations=50)
-# lda.save('strip_50_lda.model')
-#
-# vis_data = gensimvis.prepare(lda, corpus, dictionary)
-# pyLDAvis.display(vis_data)
 
+count['items'] = full
+print json.dumps(count, indent=1)
+# with open('outputs/tweets_per_nghd_words.json','w') as outfile:
+#         json.dump(tweets_per_word,outfile, indent=2)

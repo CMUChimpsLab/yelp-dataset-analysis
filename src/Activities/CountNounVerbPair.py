@@ -34,12 +34,10 @@ print counts
 
 df = pd.DataFrame(counts)
 print df.info()
-
+noun = []
 df = df.sort(['c'], ascending=False)[:40]
 d =  df.head(40)
 df_to_json(df, 'nvc1.json')
-
-
 
 def df_to_json(df, filename=''):
     x = df.reset_index().T.to_dict().values()

@@ -17,9 +17,6 @@ import nltk
 import pyLDAvis.gensim as gensimvis
 import pyLDAvis
 
-
-
-
 '''
 load_data(filepath)
 Given a filepath to a JSON file, loads in the file and formats the JSON
